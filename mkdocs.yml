@@ -2,5 +2,6 @@ site_name: myo
 nav:
   - Home: index.md
   - About: about.md
+  - Profile: profile.md
 theme:
   name: material
