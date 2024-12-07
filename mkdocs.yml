@@ -4,5 +4,6 @@ nav:
   - About: about.md
   - Profile: profile.md
   - Contact: contact.md
+  - History: history.md
 theme:
   name: material
