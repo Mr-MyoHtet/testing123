@@ -3,5 +3,6 @@ nav:
   - Home: index.md
   - About: about.md
   - Profile: profile.md
+  - Contact: contact.md
 theme:
   name: material
